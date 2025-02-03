@@ -30,7 +30,6 @@ Potential Improvement:
 - Reset table and re-render after DELETE
 
 4. Frontend/
-<br />
 A simple web page built with vite+react and tailwindcss. Events sorted by nearest date to furthest
 <br />
 <br />
@@ -41,4 +40,5 @@ Potential Improvement:
 - Join same date event into one row rather than separated
 
 Port - 1337 => Strapi
+<br />
 Port - 5174 => Frontend
